@@ -45,8 +45,6 @@ firstName = "Vidushi"
 lastName = "Infotech"
 
 print(firstName + " " +  lastName)
-
-
 x = 5 
 y = 5
 
@@ -60,5 +58,3 @@ def myfunc() :
 	print("Python is " + x)
 
 myfunc()
-
-
